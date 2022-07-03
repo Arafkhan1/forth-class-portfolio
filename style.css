@@ -11,8 +11,18 @@ body {
     color: orange;
 }
 
+.jani {
+    color: orangered;
+    font-size: 30px;
+}
+
+.na {
+    color: #4b3636;
+}
+
 section {
     display: flex;
+    margin: 100px;
 }
 
 .half {
@@ -42,4 +52,8 @@ section {
 
 .top-banner {
     background-image: url(image/8.jpg);
+}
+
+.top-pinik {
+    background-image: url(image/02.png);
 }
