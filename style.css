@@ -31,7 +31,7 @@ section {
 }
 
 .half img {
-    width: 70%;
+    width: 50%;
     background-image: linear-gradient(black red);
     border-radius: 40px;
 }
