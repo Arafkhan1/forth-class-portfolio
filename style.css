@@ -20,13 +20,13 @@ body {
     color: #4b3636;
 }
 
-section {
+.Contaner {
     display: flex;
-    margin-top: 10px;
+    margin-bottom: 100px;
 }
 
 .half {
-    width: 100%;
+    width: 50%;
     padding-left: 5%;
 }
 
@@ -56,4 +56,30 @@ section {
 
 .top-pinik {
     background-image: url(image/02.png);
+}
+
+.new-experience {
+    background-image: url(image/images.jpg);
+}
+
+.half-dev {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 20px;
+
+    box-shadow: 10px 10px 30px red;
+}
+
+#Full {
+    border-left: 7px solid orchid;
+}
+
+#Baby {
+    border-left: 7px solid blueviolet;
+}
+
+footer p {
+    text-align: center;
 }
