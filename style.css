@@ -22,16 +22,16 @@ body {
 
 section {
     display: flex;
-    margin: 100px;
+    margin-top: 10px;
 }
 
 .half {
-    width: 80%;
+    width: 100%;
     padding-left: 5%;
 }
 
 .half img {
-    width: 50%;
+    width: 90%;
     background-image: linear-gradient(black red);
     border-radius: 40px;
 }
